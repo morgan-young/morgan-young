@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @morgan-young.
 
-- 👀 I’m interested in back end development with python and AWS, as well as UI automation/RPA.
+- 👀 I’m interested in back end development with python and AWS mostly. GCP when I have to. Azure when I am literally forced to.
 
-- 🌱 I’m currently learning more about serverless architecture, AWS Lambda and Selenium. Web scraping too.
+- 🌱 I’m currently learning more about agentic frameworks and the next gen web scrapers/UI automation tools.
 
-- 📫 You can reach me on www.morgan-young.co.uk
+- 🔨 I work for myself and for other people, building and contributing to products which try and solve real problems.
+
+P.S you really don't need kubernetes yet.
