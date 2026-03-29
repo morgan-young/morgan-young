@@ -22,7 +22,8 @@ ___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|__
 ```
 
 - I'm a developer and product manager
-- python/flask/django/aws/terraform
+- dev - python/flask/django
+- devops - AWS/GCP/cloudformation/terraform/prometheus/grafana
 - AWS certified
 
 🔨 I'm keen on contributing to open source projects. Please reach out at: me [a t] morgan-young [dot] co [dot] uk
