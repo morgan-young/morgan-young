@@ -30,9 +30,8 @@ ___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|__
 
 Want to see my DevOps (and python) skills in action?
 
-- **[Kafka + Elasticsearch E-commerce Dashboard - real-time analytics and event-driven architecture]**(https://github.com/morgan-young/kafka-elasticsearch-ecommerce-dashboard)
+- [Kafka + Elasticsearch E-commerce Dashboard - real-time analytics and event-driven architecture](https://github.com/morgan-young/kafka-elasticsearch-ecommerce-dashboard)
 
-- **Terraform + Prometheus + Alertmanager Stack - IAC (infrastructure-as-code) infrastructure build and observability**  
-  [https://github.com/morgan-young/terraform-prometheus-grafana-stack](https://github.com/morgan-young/terraform-prometheus-grafana-stack)
+- [Terraform + Prometheus + Alertmanager Stack - IAC (infrastructure-as-code) infrastructure build and observability](https://github.com/morgan-young/terraform-prometheus-grafana-stack)
 
 🔨 I'm keen on contributing to open source projects. Please reach out at: me [a t] morgan-young [dot] co [dot] uk
