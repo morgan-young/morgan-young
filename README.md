@@ -28,7 +28,7 @@ ___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|__
 
 ## Interesting Things I Built
 
-Want to see my DevOps (and python) skills in action?
+A mixture of DevOps and python stuff to show and talk about:
 
 - [Kafka + Elasticsearch E-commerce Dashboard - real-time analytics and event-driven architecture](https://github.com/morgan-young/kafka-elasticsearch-ecommerce-dashboard)
 
@@ -36,4 +36,4 @@ Want to see my DevOps (and python) skills in action?
 
 ## Open Source Contributions
 
-🔨 I'm keen on contributing to open source projects, ideally packages in the python ecosystem. Please reach out at: me [a t] morgan-young [dot] co [dot] uk
+I'm keen on contributing to open source projects, ideally packages in the python ecosystem. Please reach out at: me [a t] morgan-young [dot] co [dot] uk
