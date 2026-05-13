@@ -24,7 +24,7 @@ ___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|__
 - I'm a developer and product manager
 - dev - python/flask/django
 - devops - AWS/GCP/cloudformation/terraform/prometheus/grafana
-- AWS certified
+- AWS and Terraform certified
 
 ## Interesting Things I Built
 
